@@ -1,0 +1,7 @@
+language: cpp
+sudo: required
+dist: focal
+compiler:
+- gcc
+os:
+- linux
